@@ -16,6 +16,7 @@ import Icon from 'react-native-vector-icons/Ionicons';
 const Stack = createNativeStackNavigator();
 
 // NOTE: Never push Maps API key onto GitHub
+//Main code
 
 
 // The Restaurant and Order Screens will be generalized with props
